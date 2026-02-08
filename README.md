@@ -38,8 +38,10 @@ If you are receiving `0` or `255` values consistently, check the following:
 
 
 ![ADXL345](sensor_yakin.png)
+ADXL345
 
 ![Nucleo](genel_gorunum.jpeg)
+STM32F103RBT6
 
 ## 🛠️ How to Use
 1.  Open the project in **STM32CubeIDE**.
