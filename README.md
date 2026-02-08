@@ -37,9 +37,9 @@ If you are receiving `0` or `255` values consistently, check the following:
 
 
 
-![ADXL345](sensor_yakin.jpg)
+![ADXL345](sensor_yakin.png)
 
-![Nucleo](genel_gorunum.jpg)
+![Nucleo](genel_gorunum.jpeg)
 
 ## 🛠️ How to Use
 1.  Open the project in **STM32CubeIDE**.
