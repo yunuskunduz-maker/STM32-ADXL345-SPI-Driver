@@ -33,6 +33,14 @@ If you are receiving `0` or `255` values consistently, check the following:
 2.  **Wiring:** Ensure `CS`, `VCC`, and `GND` are connected.
 3.  **Module Type:** Some ADXL345 modules have a voltage regulator (662K). If so, powering with 5V might be more stable.
 
+4.  ## 📸 Project Images
+
+
+
+![ADXL345](sensor_yakin.jpg)
+
+![Nucleo](genel_gorunum.jpg)
+
 ## 🛠️ How to Use
 1.  Open the project in **STM32CubeIDE**.
 2.  Connect your Nucleo board.
